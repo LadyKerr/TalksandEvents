@@ -8,6 +8,7 @@ I conducted a workshop at Google Developer Student Group - WMU on version contro
 ## Talk Title: Intro to Version Control & Git - "Git into it Yuh" 💃🏽
 ## Date: Dec 19, 2022
 ## Format: Virtual Workshop 
+> repo: https://github.com/LadyKerr/intro-to-git 
 
 ## Abstract:
 In this introductory session - Kedasha Kerr - Developer Advocate at GitHub - will show you how to use git and GitHub. You will learn how to use git in the terminal to track your work, create new branches to complete work, interact with a repository like a software engineer would on a dev team, create pull requests and merge your changes into the main branch. 
