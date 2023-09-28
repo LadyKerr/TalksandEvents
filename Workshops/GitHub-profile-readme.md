@@ -2,7 +2,7 @@
 
 I conducted a workshop with bootcamp graduates of Love Circular Bootcamp about gh profiles and making it attractiveto recruiters and hiring managers. Here is the [events page](https://lovecircular.com/previous-events/building-a-github-profile-that-gets-noticed-by-recruiters)
 
-> watch the recording [On Youtube](incoming)
+> watch the recording [On Youtube](https://www.youtube.com/watch?v=qppn_3RRcpI&t=2s)
 >
 ![build a profile readme with kedasha](https://user-images.githubusercontent.com/47188731/232579955-b7db23c1-0503-4fc3-a1ab-5a533af27353.png)
 
