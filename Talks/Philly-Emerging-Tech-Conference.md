@@ -2,7 +2,7 @@
 
 <img width="500" alt="Philly Emerging tech conference - there's an action for that talk" src="https://user-images.githubusercontent.com/47188731/222786684-b9d42676-6cea-43e1-b5c7-cdc8aad0fe31.png">
 
-> watch the recording (coming soon!)
+> watch the recording: [Youtube](https://www.youtube.com/watch?v=SDAgg2Dm0Dk)
 
 ## Talk Title: There's an Action for That! Exploring the Possibilities of GitHub Actions 
 ## Date: April, 11, 2023 
