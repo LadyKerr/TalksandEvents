@@ -1,6 +1,6 @@
 # Building a GitHub profile that gets noticed by recruiters
 
-I conducted a workshop with bootcamp graduates of Love Circular Bootcamp about gh profiles and making it attractiveto recruiters and hiring managers. Here is the [events page](https://lovecircular.com/events/building-a-github-profile-that-gets-noticed-by-recruiters)
+I conducted a workshop with bootcamp graduates of Love Circular Bootcamp about gh profiles and making it attractiveto recruiters and hiring managers. Here is the [events page](https://lovecircular.com/previous-events/building-a-github-profile-that-gets-noticed-by-recruiters)
 
 > watch the recording [On Youtube](incoming)
 >
